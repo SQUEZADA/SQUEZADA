@@ -2,7 +2,7 @@
 # Sup! 
 
 ## About me...
-I'm a Javascript Full Stack developer that have applied to create apps in the Backend side with NodeJS and frameworks like Express and also implemented technologies such as Next JS and React in the frontEnd. Also have pretty good skills with SQL and Linux. Team player who prefer solve problems than just search for a guilty to judge, even if i need to improve my soft skill i do my best for the team.
+I'm a Javascript Backend developer that have applied to create apps in the Backend side with NodeJS and frameworks like Express and also implemented technologies such as Next JS and React in the frontEnd. Also have pretty good skills with SQL and Linux. Team player who prefer solve problems than just search for a guilty to judge, even if i need to improve my soft skill i do my best for the team.
 
 Go to the gym is one of my hobbies, usually I go with friends, it helps me to focus on my goals, improve my soft skills is one of them. The Witcher 3 is one of my all time favorites, don't know where should put this but there it is.
 
