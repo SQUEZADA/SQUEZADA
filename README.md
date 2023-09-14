@@ -6,10 +6,10 @@ I'm a Javascript Backend developer that have applied to create apps in the Backe
 
 Go to the gym is one of my hobbies, usually I go with friends, it helps me to focus on my goals, improve my soft skills is one of them. The Witcher 3 is one of my all time favorites, don't know where should put this but there it is.
 
-## Skills i want to learn
-- QA (In progress)
-- Automation Test (In progress)
-- Data Analysis
+## I’m currently learning: 
+- htmx
+- Hono
+- [DSA]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/data-structures/?ref=shm)) in [GeekForGeeks](https://www.geeksforgeeks.org/)
 
 # Projects
 
