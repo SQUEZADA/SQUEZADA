@@ -9,7 +9,7 @@ Go to the gym is one of my hobbies, usually I go with friends, it helps me to fo
 ## I’m currently learning: 
 - htmx
 - Hono
-- [DSA]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/data-structures/?ref=shm)) in [GeekForGeeks](https://www.geeksforgeeks.org/)
+- [DSA](https://www.geeksforgeeks.org/data-structures/?ref=shm) in [GeekForGeeks](https://www.geeksforgeeks.org/)
 
 # Projects
 
