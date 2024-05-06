@@ -14,7 +14,7 @@ With more than 6 years of experience in web development, both frontend and backe
 
 ## Projects
 
-- [MetaTags](https://github.com/SQUEZADA/metaTags): Is a simple JS script that add facebook and twitter meta tags to you page if is not detected in your page.
+<!-- [MetaTags](https://github.com/SQUEZADA/metaTags): Is a simple JS script that add facebook and twitter meta tags to you page if is not detected in your page. -->
 - [Fake Store API](https://github.com/SQUEZADA/fakestoreapi): A fake store rest API for your e-commerce or shopping website prototype.
 - [Image Processor](https://github.com/SQUEZADA/simple_image_compressor): is a Image processor that compressor Image using python, i want to expands it in the future
 - [Video Processor](https://github.com/SQUEZADA/simple_video_compressor): is a video processor that compressor video using python, i want to expands it in the future
